@@ -1,0 +1,2 @@
+# control_of_touch_screen_coordinat
+control_of_touch_screen_coordinat with ardunio tft screen
